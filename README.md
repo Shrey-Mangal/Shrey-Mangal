@@ -83,7 +83,6 @@
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| [llm-app](https://github.com/Shrey-Mangal/llm-app) | LLM-powered application | Python, AI/ML | — |
 | [Portfolio](https://github.com/Shrey-Mangal/Shrey-Mangal.github.io) | Personal portfolio website | HTML, CSS, JS | [Live ↗](https://shrey-mangal.github.io) |
 | *DSA Visualizer* | Interactive visualizer for sorting & graph algorithms | JS, React | *Coming soon* |
 
