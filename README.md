@@ -22,11 +22,11 @@
 
 ## 👨‍💻 About me
 
-- 🎓 &nbsp;Pursuing **B.Tech in Computer Science** at **IIIT Kota** (2023–2027)
+- 🎓 &nbsp;Pursuing **B.Tech in Computer Science** at **IIIT Kota** (2024–2028)
 - 💡 &nbsp;Passionate about **Data Structures & Algorithms** and competitive programming
 - 🚀 &nbsp;Currently learning **full-stack web development** to build real-world projects
-- 🎯 &nbsp;Goal: Land an **SDE internship** for Summer 2025
-- 📍 &nbsp;Jaipur, Rajasthan, India
+- 🎯 &nbsp;Goal: Land an **SDE internship** for Summer 2027
+- 📍 &nbsp;Sawai Madhopur, Rajasthan, India
 
 ---
 
