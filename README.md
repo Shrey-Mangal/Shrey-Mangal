@@ -67,11 +67,11 @@
 
 ## 📈 GitHub stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrey-Mangal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Shrey's GitHub stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Mangal&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrey-Mangal&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
