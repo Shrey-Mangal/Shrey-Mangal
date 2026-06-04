@@ -81,9 +81,9 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| [Todo List](https://github.com/Shrey-Mangal/todo-list) | A responsive todo app with add, edit, delete, and complete task features | React, Vite, Tailwind CSS, UUID | *Coming soon* |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Todo List](https://github.com/Shrey-Mangal/todo-list) | A responsive todo app with add, edit, delete, and complete task features | React, Vite, Tailwind CSS, UUID |
 
 ---
 
