@@ -85,6 +85,8 @@
 |---------|-------------|------|------|
 | [Todo List](https://github.com/Shrey-Mangal/todo-list) | A responsive todo app with add, edit, delete, and complete task features | React, Vite, Tailwind CSS, UUID | [▶ Demo](https://todo-list-mg.vercel.app/) |
 
+| [Collaborative Whiteboard](https://github.com/Shrey-Mangal/collab-whiteboard) | Real-time collaborative whiteboard with live drawing sync, cursor presence, undo/clear, and persistent boards | React, Vite, Tailwind CSS, Liveblocks | [▶ Demo](https://collab-whiteboard-pink.vercel.app) |
+
 ---
 
 ## 📚 DSA progress
